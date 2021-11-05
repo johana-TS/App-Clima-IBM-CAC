@@ -19,7 +19,7 @@ Para iniciar el sistema  utilizar
 
    * Expo
     ```bsh
-        npm i expo  
+        npm i expo  /
     ```
     * React
     ```bsh
